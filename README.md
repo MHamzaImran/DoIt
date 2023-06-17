@@ -48,4 +48,7 @@ The DoIt application aims to provide a user-friendly and efficient task manageme
 
 ## Screenshots
 
+![Preview](images/main.jpg)
+![Preview](images/1.jpg)
+![Preview](images/2.jpg)
 
